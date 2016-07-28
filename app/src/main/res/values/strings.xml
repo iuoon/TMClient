@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">霜还冷东</string>
+    <string name="app_name">梦落云荒</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text1">凉风岁月愁肠苦，连天衰草归来路</string>
 </resources>
