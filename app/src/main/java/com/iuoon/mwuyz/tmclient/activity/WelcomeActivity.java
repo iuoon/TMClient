@@ -1,9 +1,10 @@
-package com.iuoon.mwuyz.tmclient;
+package com.iuoon.mwuyz.tmclient.activity;
 
 import android.content.Intent;
-import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.iuoon.mwuyz.tmclient.R;
 
 import java.util.Timer;
 import java.util.TimerTask;

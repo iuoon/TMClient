@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/app_bg"
     android:orientation="vertical"
-    tools:context="com.iuoon.mwuyz.tmclient.WelcomeActivity">
+    tools:context=".activity.WelcomeActivity">
 
  
 </RelativeLayout>
