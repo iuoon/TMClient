@@ -304,9 +304,9 @@ public class ADImageView extends FrameLayout {
                 // 这里一般调用服务端接口获取一组轮播图片，下面是从百度找的几个图片
 
                 imageUrls = new String[]{
-                        "http://b.hiphotos.baidu.com/image/pic/item/d01373f082025aaf95bdf7e4f8edab64034f1a15.jpg",
-                        "http://g.hiphotos.baidu.com/image/pic/item/6159252dd42a2834da6660c459b5c9ea14cebf39.jpg",
-                        "http://d.hiphotos.baidu.com/image/pic/item/adaf2edda3cc7cd976427f6c3901213fb80e911c.jpg",
+                        "http://pic.90sjimg.com/back_pic/qk/back_origin_pic/00/01/83/f1e2a9e9b279cbeb3efbc6783befaee2.jpg",
+                        "http://pic32.photophoto.cn/20140707/0022005590447759_b.gif",
+                        "http://pic74.nipic.com/file/20150803/15208464_115958410000_2.png",
                 };
                 return true;
             } catch (Exception e) {
